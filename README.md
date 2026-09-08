@@ -1,4 +1,4 @@
-# Project Title: My First Full-Stack App
+# Project Title: Abdallah's Task Manager
 **Developer:** Abdallah AlFakhouri
 
 ## Description
